@@ -1,0 +1,10 @@
+.row {
+    display: flex;
+    flex-direction: column;
+}
+.card {
+   margin-right: 100px;
+}
+.card-body-login {
+    margin: 10px;
+}
