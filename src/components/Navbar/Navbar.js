@@ -47,7 +47,7 @@ const Navbar = () => {
 
     return (
             <nav className="nav navbar-expand-lg navbar-mainbg navbar-custom">
-                <a className="navbar-brand navbar-logo" href="/">Know Style!</a>
+                <a className="navbar-brand navbar-logo">Know Style!</a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse"
                         data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false"
