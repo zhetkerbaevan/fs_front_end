@@ -1,2 +1,3 @@
-# Front-End Project ZooPark
-## Done by Zhetkerbaeva Nazerke IT2-2005 
+# Full Stack Project
+
+Front-end on React
